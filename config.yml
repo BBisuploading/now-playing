@@ -1,4 +1,4 @@
-player: "spotify"
+player: "deezer"
 webServerPort: 4640
 websocketServerPort: 4641
 
